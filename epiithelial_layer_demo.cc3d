@@ -1,0 +1,5 @@
+<Simulation version="3.6.2">
+   <XMLScript Type="XMLScript">Simulation/epiithelial_layer_demo.xml</XMLScript>
+   <PythonScript Type="PythonScript">Simulation/epiithelial_layer_demo.py</PythonScript>
+   <Resource Type="Python">Simulation/epiithelial_layer_demoSteppables.py</Resource>
+</Simulation>
